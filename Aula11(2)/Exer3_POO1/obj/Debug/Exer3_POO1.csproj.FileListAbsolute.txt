@@ -1,0 +1,7 @@
+C:\Users\Geraldo\source\repos\Exer3_POO1\Exer3_POO1\obj\Debug\Exer3_POO1.csproj.AssemblyReference.cache
+C:\Users\Geraldo\source\repos\Exer3_POO1\Exer3_POO1\obj\Debug\Exer3_POO1.csproj.CoreCompileInputs.cache
+C:\Users\Geraldo\source\repos\Exer3_POO1\Exer3_POO1\bin\Debug\Exer3_POO1.exe.config
+C:\Users\Geraldo\source\repos\Exer3_POO1\Exer3_POO1\bin\Debug\Exer3_POO1.exe
+C:\Users\Geraldo\source\repos\Exer3_POO1\Exer3_POO1\bin\Debug\Exer3_POO1.pdb
+C:\Users\Geraldo\source\repos\Exer3_POO1\Exer3_POO1\obj\Debug\Exer3_POO1.exe
+C:\Users\Geraldo\source\repos\Exer3_POO1\Exer3_POO1\obj\Debug\Exer3_POO1.pdb
